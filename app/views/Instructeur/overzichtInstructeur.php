@@ -20,7 +20,7 @@
 </style>
 <body>
     <h2><?= $data['title']; ?></h2>
-    <a href="../../overzichtinstructeurs">Terug</a> 
+    <a href="../../overzichtinstructeurs">Terug</a> <br><br>
 
     <table class="center">
         <thead>
