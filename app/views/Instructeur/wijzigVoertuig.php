@@ -55,7 +55,7 @@
 <label for="Kenteken-input">Kenteken:</label>
 <input type="text" id="Kenteken-input" name="Kenteken" value="<?= $data['Kenteken']; ?>"> <br><br>
 
-<button type="submit" class="button">Wijzigen</button>
+<button type="submit" class="button">Wijzigen!</button>
 
 
 </body>
